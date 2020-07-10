@@ -7,6 +7,8 @@ To develop a machine learning model that will predict the chances of survival of
 
 
 ### This project was submitted as a final assignment solution to a 5-weeks DPhi Bootcamp (India), held remotely. 
-Performed Exploratory Data Analysis (EDA), applied several feature engineering techniques and finetuned the XGBoost model used. Result is, **I ranked 1st position** on the leaderboard containing the submissions of several other participants.
+Performed Exploratory Data Analysis (EDA), applied several feature engineering techniques and finetuned the XGBoost model used.
+
+Result is, **I ranked 1st position** on the leaderboard containing the submissions of several other participants.
 
 Dataset Source: Kaggle
