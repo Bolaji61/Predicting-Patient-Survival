@@ -6,7 +6,8 @@ A hospital has been trying to improve its care conditions by looking at historic
 To develop a machine learning model that will predict the chances of survival of a patient after 1 year of treatment.
 
 
-### This project was submitted as a final assignment solution to a 5-weeks DPhi Bootcamp (India), held remotely. **I ranked 1st position** on the leaderboard containing the submissions of several other participants.
+**This project was submitted as a final assignment solution to a 5-weeks DPhi Bootcamp (India), held remotely. I ranked 1st position on the leaderboard containing the submissions of several other participants.**
+
 Performed Exploratory Data Analysis (EDA), applied several feature engineering techniques and finetuned the XGBoost model used.
 
 **Original Dataset Source**: Kaggle
